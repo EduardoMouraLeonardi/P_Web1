@@ -1,0 +1,37 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background-color: #525252;
+}
+h1{
+    margin-top: 70px;
+    margin-bottom: 20px;
+    text-align: center;
+    color:#BCB8B7;
+}
+.carousel-item{
+    position: relative;
+    
+}
+
+.container1{
+    height: 90vh;
+    display: flex;
+    align-items: center;
+    margin: auto;
+
+}
+.row{
+    text-align: center;
+    justify-content: center;
+    width: 100%;
+}
+.col-lg-4{
+    border-radius: 20px;
+    margin: 10px;
+    padding: 20px;
+    background-color: aliceblue;
+}
+.col-lg-4 > img{
+    border-radius: 50%;
+}
