@@ -1,0 +1,113 @@
+@charset "utf-8";
+
+body{
+    margin: 0%;
+    padding: 0%;
+    background-image: url(https://temalguemassistindo.com.br/wp-content/uploads/2019/05/avengers-logo.jpg);
+    background-size: cover;
+    
+}
+h1{
+    color: aliceblue;
+}
+p{
+    color: aliceblue;
+}
+
+.v1{
+    position: absolute;
+    left: 350px;
+    top: 200px;
+    color: aliceblue;
+}
+
+p1{
+    position: absolute;
+    left: 150px;
+    top: 250px;
+    color: aliceblue
+}
+
+.vi1{
+    position: absolute;
+    right: 300px;
+    top: 150px;
+}
+
+.v2{
+    position: absolute;
+    top: 600px;
+    right: 300px;
+    color: aliceblue;
+}
+
+p2{
+    position: absolute;
+    right: 200px;
+    top: 650px;
+    color: aliceblue
+}
+
+.vi2{
+    position: absolute;
+    left: 250px;
+    top: 500px;
+}
+
+.v3{
+    position: absolute;
+    left: 200px;
+    top: 1000px;
+    color: aliceblue
+}
+
+p3{
+    position: absolute;
+    left: 150px;
+    top: 1050px;
+    color: aliceblue
+}
+
+.vi3{
+    position: absolute;
+    right: 300px;
+    top: 950px;
+}
+
+.v4{
+    position: absolute;
+    right: 250px;
+    top: 1400px;
+    color: aliceblue;
+}
+
+p4{
+    position: absolute;
+   right: 200px;
+    top: 1450px;
+    color: aliceblue
+}
+
+.vi4{
+    position: absolute;
+    left: 250px;
+    top: 1350px;
+}
+
+.hr1{
+    position: relative;
+top: 1600px;
+}
+
+.tit{
+    position: absolute;
+    top: 1750px;
+    left: 43%;
+    color: aliceblue;
+}
+
+.trailer{
+    position: absolute;
+    top: 1800px;
+    left: 30%;
+}
